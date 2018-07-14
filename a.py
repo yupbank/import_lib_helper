@@ -1,4 +1,4 @@
-import dog as tf
+import dog
 
 NAME = 'a'
-print(tf.placeholder(tf.int32, [None]))
+print(dog.placeholder(dog.int32, [None]))
